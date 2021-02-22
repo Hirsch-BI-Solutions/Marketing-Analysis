@@ -1,6 +1,5 @@
 # Marketing-Analysis
 
-# Power-BI---DAX
 In order to maintain confidentiality, the material is made using fake data.
 
 # Sample sales analysis 
